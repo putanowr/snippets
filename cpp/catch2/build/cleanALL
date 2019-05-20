@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -fr CMakeCache.txt CMakeFiles Makefile cmake_install.cmake \
+       docs src bin CTestTestfile.cmake myeasylog.log tests Testing
